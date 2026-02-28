@@ -19,7 +19,8 @@ Aplikasi web sederhana yang dibangun menggunakan React dan Tailwind CSS untuk me
 
 ## 🛠️ Tech Stack
 
-- React (Functional Components & Hooks)
+- Vite
+- React
 - React Router DOM
 - Tailwind CSS
 - Axios / Fetch API
@@ -57,8 +58,4 @@ VITE_API_ENDPOINT=
 
 ```bash
 npm run dev
-```
-atau
-```bash
-npm start
 ```
