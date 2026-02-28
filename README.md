@@ -2,6 +2,16 @@
 
 Aplikasi web sederhana yang dibangun menggunakan React dan Tailwind CSS untuk menampilkan data postingan dari API publik JSONPlaceholder.
 
+AI Prompt: 
+```
+saya sedang mengerjakan tes untuk mendaftar sebagai frontend developer, saya mengembangkan sebuah aplikasi web sederhana menggunakan React dan Tailwind CSS yang berfungsi untuk menampilkan data postingan (posts) yang diperoleh dari API publik JSONPlaceholder.
+
+- halaman daftar postingan (post list page) yang menampilkan seluruh data posts dari API.
+- halaman detail postingan (post detail page) yang menampilkan informasi lengkap dari sebuah post yang dipilih.
+
+tolong bantu saya membuat readme nya yang mencakup: penjelasan mengenai proyek, cara menjalankan aplikasi, serta informasi relevan lainnya.
+```
+
 ---
 
 🚀 Fitur
