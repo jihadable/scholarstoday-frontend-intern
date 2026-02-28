@@ -1,0 +1,5 @@
+1. /posts
+- menampilkan semua postingan (title, body)
+
+2. /posts/{id}
+- menampilkan detail postingan (username, title, body)

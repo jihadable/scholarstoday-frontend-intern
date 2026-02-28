@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body{
+    background-color: #0d1f2d;
+    color: #eee;
+}
+
+@custom-variant mobile (@media (max-width: 480px));
+@custom-variant tablet (@media (min-width: 481px) and (max-width: 1023px));
